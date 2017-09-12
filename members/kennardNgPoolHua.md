@@ -7,6 +7,14 @@
 
 ## Work Experience
 
+## Programming Skills
+* C
+* Java
+* HTML5
+* CSS3
+* Javascript
+* NodeJS
+
 ## Accomplishments
 
 * [2016 December - present] National University of Singapore Global Engineering Programme 
